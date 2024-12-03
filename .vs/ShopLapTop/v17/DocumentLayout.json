@@ -1,0 +1,255 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ASPX B\u00C1O C\u00C1O\\ShopLapTop\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E9808A76-EE6C-41FD-A631-A57507A4780C}|ShopLapTop\\ShopLapTop.csproj|D:\\ASPX B\u00C1O C\u00C1O\\ShopLapTop\\shoplaptop\\subpage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{E9808A76-EE6C-41FD-A631-A57507A4780C}|ShopLapTop\\ShopLapTop.csproj|solutionrelative:shoplaptop\\subpage.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9808A76-EE6C-41FD-A631-A57507A4780C}|ShopLapTop\\ShopLapTop.csproj|d:\\aspx b\u00E1o c\u00E1o\\shoplaptop\\shoplaptop\\subpage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9808A76-EE6C-41FD-A631-A57507A4780C}|ShopLapTop\\ShopLapTop.csproj|solutionrelative:shoplaptop\\subpage.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9808A76-EE6C-41FD-A631-A57507A4780C}|ShopLapTop\\ShopLapTop.csproj|d:\\aspx b\u00E1o c\u00E1o\\shoplaptop\\shoplaptop\\admin\\managerproduct\\function\\updateproduct.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9808A76-EE6C-41FD-A631-A57507A4780C}|ShopLapTop\\ShopLapTop.csproj|solutionrelative:shoplaptop\\admin\\managerproduct\\function\\updateproduct.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9808A76-EE6C-41FD-A631-A57507A4780C}|ShopLapTop\\ShopLapTop.csproj|d:\\aspx b\u00E1o c\u00E1o\\shoplaptop\\shoplaptop\\admin\\managerproduct\\function\\updateproduct.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{E9808A76-EE6C-41FD-A631-A57507A4780C}|ShopLapTop\\ShopLapTop.csproj|solutionrelative:shoplaptop\\admin\\managerproduct\\function\\updateproduct.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9808A76-EE6C-41FD-A631-A57507A4780C}|ShopLapTop\\ShopLapTop.csproj|d:\\aspx b\u00E1o c\u00E1o\\shoplaptop\\shoplaptop\\admin\\managerproduct\\function\\addproduct.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9808A76-EE6C-41FD-A631-A57507A4780C}|ShopLapTop\\ShopLapTop.csproj|solutionrelative:shoplaptop\\admin\\managerproduct\\function\\addproduct.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9808A76-EE6C-41FD-A631-A57507A4780C}|ShopLapTop\\ShopLapTop.csproj|D:\\ASPX B\u00C1O C\u00C1O\\ShopLapTop\\shoplaptop\\admin\\managerproduct\\function\\addproduct.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{E9808A76-EE6C-41FD-A631-A57507A4780C}|ShopLapTop\\ShopLapTop.csproj|solutionrelative:shoplaptop\\admin\\managerproduct\\function\\addproduct.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9808A76-EE6C-41FD-A631-A57507A4780C}|ShopLapTop\\ShopLapTop.csproj|d:\\aspx b\u00E1o c\u00E1o\\shoplaptop\\shoplaptop\\index.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9808A76-EE6C-41FD-A631-A57507A4780C}|ShopLapTop\\ShopLapTop.csproj|solutionrelative:shoplaptop\\index.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9808A76-EE6C-41FD-A631-A57507A4780C}|ShopLapTop\\ShopLapTop.csproj|d:\\aspx b\u00E1o c\u00E1o\\shoplaptop\\shoplaptop\\index.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{E9808A76-EE6C-41FD-A631-A57507A4780C}|ShopLapTop\\ShopLapTop.csproj|solutionrelative:shoplaptop\\index.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9808A76-EE6C-41FD-A631-A57507A4780C}|ShopLapTop\\ShopLapTop.csproj|d:\\aspx b\u00E1o c\u00E1o\\shoplaptop\\shoplaptop\\login\\logins.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9808A76-EE6C-41FD-A631-A57507A4780C}|ShopLapTop\\ShopLapTop.csproj|solutionrelative:shoplaptop\\login\\logins.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9808A76-EE6C-41FD-A631-A57507A4780C}|ShopLapTop\\ShopLapTop.csproj|d:\\aspx b\u00E1o c\u00E1o\\shoplaptop\\shoplaptop\\login\\logins.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{E9808A76-EE6C-41FD-A631-A57507A4780C}|ShopLapTop\\ShopLapTop.csproj|solutionrelative:shoplaptop\\login\\logins.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9808A76-EE6C-41FD-A631-A57507A4780C}|ShopLapTop\\ShopLapTop.csproj|D:\\ASPX B\u00C1O C\u00C1O\\ShopLapTop\\shoplaptop\\views\\orders\\carts.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9808A76-EE6C-41FD-A631-A57507A4780C}|ShopLapTop\\ShopLapTop.csproj|solutionrelative:shoplaptop\\views\\orders\\carts.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9808A76-EE6C-41FD-A631-A57507A4780C}|ShopLapTop\\ShopLapTop.csproj|D:\\ASPX B\u00C1O C\u00C1O\\ShopLapTop\\shoplaptop\\style\\cart.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{E9808A76-EE6C-41FD-A631-A57507A4780C}|ShopLapTop\\ShopLapTop.csproj|solutionrelative:shoplaptop\\style\\cart.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9808A76-EE6C-41FD-A631-A57507A4780C}|ShopLapTop\\ShopLapTop.csproj|D:\\ASPX B\u00C1O C\u00C1O\\ShopLapTop\\shoplaptop\\views\\orders\\carts.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{E9808A76-EE6C-41FD-A631-A57507A4780C}|ShopLapTop\\ShopLapTop.csproj|solutionrelative:shoplaptop\\views\\orders\\carts.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9808A76-EE6C-41FD-A631-A57507A4780C}|ShopLapTop\\ShopLapTop.csproj|D:\\ASPX B\u00C1O C\u00C1O\\ShopLapTop\\shoplaptop\\style\\index.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{E9808A76-EE6C-41FD-A631-A57507A4780C}|ShopLapTop\\ShopLapTop.csproj|solutionrelative:shoplaptop\\style\\index.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SubPage.aspx",
+              "DocumentMoniker": "D:\\ASPX B\u00C1O C\u00C1O\\ShopLapTop\\ShopLapTop\\SubPage.aspx",
+              "RelativeDocumentMoniker": "ShopLapTop\\SubPage.aspx",
+              "ToolTip": "D:\\ASPX B\u00C1O C\u00C1O\\ShopLapTop\\ShopLapTop\\SubPage.aspx",
+              "RelativeToolTip": "ShopLapTop\\SubPage.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-11-06T02:03:58.059Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SubPage.aspx.cs",
+              "DocumentMoniker": "D:\\ASPX B\u00C1O C\u00C1O\\ShopLapTop\\ShopLapTop\\SubPage.aspx.cs",
+              "RelativeDocumentMoniker": "ShopLapTop\\SubPage.aspx.cs",
+              "ToolTip": "D:\\ASPX B\u00C1O C\u00C1O\\ShopLapTop\\ShopLapTop\\SubPage.aspx.cs",
+              "RelativeToolTip": "ShopLapTop\\SubPage.aspx.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T08:59:40.299Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UpdateProduct.aspx.cs",
+              "DocumentMoniker": "D:\\ASPX B\u00C1O C\u00C1O\\ShopLapTop\\ShopLapTop\\Admin\\ManagerProduct\\Function\\UpdateProduct.aspx.cs",
+              "RelativeDocumentMoniker": "ShopLapTop\\Admin\\ManagerProduct\\Function\\UpdateProduct.aspx.cs",
+              "ToolTip": "D:\\ASPX B\u00C1O C\u00C1O\\ShopLapTop\\ShopLapTop\\Admin\\ManagerProduct\\Function\\UpdateProduct.aspx.cs",
+              "RelativeToolTip": "ShopLapTop\\Admin\\ManagerProduct\\Function\\UpdateProduct.aspx.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwDkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T07:58:09.683Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UpdateProduct.aspx",
+              "DocumentMoniker": "D:\\ASPX B\u00C1O C\u00C1O\\ShopLapTop\\ShopLapTop\\Admin\\ManagerProduct\\Function\\UpdateProduct.aspx",
+              "RelativeDocumentMoniker": "ShopLapTop\\Admin\\ManagerProduct\\Function\\UpdateProduct.aspx",
+              "ToolTip": "D:\\ASPX B\u00C1O C\u00C1O\\ShopLapTop\\ShopLapTop\\Admin\\ManagerProduct\\Function\\UpdateProduct.aspx",
+              "RelativeToolTip": "ShopLapTop\\Admin\\ManagerProduct\\Function\\UpdateProduct.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-11-16T07:58:05.927Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.Master.cs",
+              "DocumentMoniker": "D:\\ASPX B\u00C1O C\u00C1O\\ShopLapTop\\ShopLapTop\\Index.Master.cs",
+              "RelativeDocumentMoniker": "ShopLapTop\\Index.Master.cs",
+              "ToolTip": "D:\\ASPX B\u00C1O C\u00C1O\\ShopLapTop\\ShopLapTop\\Index.Master.cs",
+              "RelativeToolTip": "ShopLapTop\\Index.Master.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwCgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T07:09:38.081Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.Master",
+              "DocumentMoniker": "D:\\ASPX B\u00C1O C\u00C1O\\ShopLapTop\\ShopLapTop\\Index.Master",
+              "RelativeDocumentMoniker": "ShopLapTop\\Index.Master",
+              "ToolTip": "D:\\ASPX B\u00C1O C\u00C1O\\ShopLapTop\\ShopLapTop\\Index.Master",
+              "RelativeToolTip": "ShopLapTop\\Index.Master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-11-16T07:09:23.13Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Logins.aspx.cs",
+              "DocumentMoniker": "D:\\ASPX B\u00C1O C\u00C1O\\ShopLapTop\\ShopLapTop\\Login\\Logins.aspx.cs",
+              "RelativeDocumentMoniker": "ShopLapTop\\Login\\Logins.aspx.cs",
+              "ToolTip": "D:\\ASPX B\u00C1O C\u00C1O\\ShopLapTop\\ShopLapTop\\Login\\Logins.aspx.cs",
+              "RelativeToolTip": "ShopLapTop\\Login\\Logins.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T07:02:45.166Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Logins.aspx",
+              "DocumentMoniker": "D:\\ASPX B\u00C1O C\u00C1O\\ShopLapTop\\ShopLapTop\\Login\\Logins.aspx",
+              "RelativeDocumentMoniker": "ShopLapTop\\Login\\Logins.aspx",
+              "ToolTip": "D:\\ASPX B\u00C1O C\u00C1O\\ShopLapTop\\ShopLapTop\\Login\\Logins.aspx",
+              "RelativeToolTip": "ShopLapTop\\Login\\Logins.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-11-16T07:02:41.095Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AddProduct.aspx.cs",
+              "DocumentMoniker": "D:\\ASPX B\u00C1O C\u00C1O\\ShopLapTop\\ShopLapTop\\Admin\\ManagerProduct\\Function\\AddProduct.aspx.cs",
+              "RelativeDocumentMoniker": "ShopLapTop\\Admin\\ManagerProduct\\Function\\AddProduct.aspx.cs",
+              "ToolTip": "D:\\ASPX B\u00C1O C\u00C1O\\ShopLapTop\\ShopLapTop\\Admin\\ManagerProduct\\Function\\AddProduct.aspx.cs",
+              "RelativeToolTip": "ShopLapTop\\Admin\\ManagerProduct\\Function\\AddProduct.aspx.cs",
+              "ViewState": "AgIAAJ0AAAAAAAAAAAAwwLMAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T04:35:43.888Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AddProduct.aspx",
+              "DocumentMoniker": "D:\\ASPX B\u00C1O C\u00C1O\\ShopLapTop\\ShopLapTop\\Admin\\ManagerProduct\\Function\\AddProduct.aspx",
+              "RelativeDocumentMoniker": "ShopLapTop\\Admin\\ManagerProduct\\Function\\AddProduct.aspx",
+              "ToolTip": "D:\\ASPX B\u00C1O C\u00C1O\\ShopLapTop\\ShopLapTop\\Admin\\ManagerProduct\\Function\\AddProduct.aspx",
+              "RelativeToolTip": "ShopLapTop\\Admin\\ManagerProduct\\Function\\AddProduct.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-11-16T04:24:27.441Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Cart.css",
+              "DocumentMoniker": "D:\\ASPX B\u00C1O C\u00C1O\\ShopLapTop\\ShopLapTop\\Style\\Cart.css",
+              "RelativeDocumentMoniker": "ShopLapTop\\Style\\Cart.css",
+              "ToolTip": "D:\\ASPX B\u00C1O C\u00C1O\\ShopLapTop\\ShopLapTop\\Style\\Cart.css",
+              "RelativeToolTip": "ShopLapTop\\Style\\Cart.css",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAGEAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-11-11T00:28:39.706Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Carts.aspx.cs",
+              "DocumentMoniker": "D:\\ASPX B\u00C1O C\u00C1O\\ShopLapTop\\ShopLapTop\\Views\\Orders\\Carts.aspx.cs",
+              "RelativeDocumentMoniker": "ShopLapTop\\Views\\Orders\\Carts.aspx.cs",
+              "ToolTip": "D:\\ASPX B\u00C1O C\u00C1O\\ShopLapTop\\ShopLapTop\\Views\\Orders\\Carts.aspx.cs",
+              "RelativeToolTip": "ShopLapTop\\Views\\Orders\\Carts.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAF4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T17:29:11.075Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Index.css",
+              "DocumentMoniker": "D:\\ASPX B\u00C1O C\u00C1O\\ShopLapTop\\ShopLapTop\\Style\\Index.css",
+              "RelativeDocumentMoniker": "ShopLapTop\\Style\\Index.css",
+              "ToolTip": "D:\\ASPX B\u00C1O C\u00C1O\\ShopLapTop\\ShopLapTop\\Style\\Index.css",
+              "RelativeToolTip": "ShopLapTop\\Style\\Index.css",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAADMAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-11-06T02:05:42.345Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Carts.aspx",
+              "DocumentMoniker": "D:\\ASPX B\u00C1O C\u00C1O\\ShopLapTop\\ShopLapTop\\Views\\Orders\\Carts.aspx",
+              "RelativeDocumentMoniker": "ShopLapTop\\Views\\Orders\\Carts.aspx",
+              "ToolTip": "D:\\ASPX B\u00C1O C\u00C1O\\ShopLapTop\\ShopLapTop\\Views\\Orders\\Carts.aspx",
+              "RelativeToolTip": "ShopLapTop\\Views\\Orders\\Carts.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-10-30T17:29:06.73Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

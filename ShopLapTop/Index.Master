@@ -1,0 +1,117 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Index.master.cs" Inherits="ShopLapTop.Index" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <link href="Style/Index.css" rel="stylesheet" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css"/>
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+        <div class="header">
+            <div class="top-bar">
+                <div class="menu-left">
+                    <div class="logo-container" style="">
+                        <asp:HyperLink ID="HomeLink" runat="server" NavigateUrl="~/SubPage.aspx">
+                            <asp:Image ID="LogoImage" runat="server" ImageUrl="~/Style/Images/pngegg.png" AlternateText="Shop LapTop" CssClass="logo" />
+                        </asp:HyperLink>
+                    </div>
+                    <div class="search-container">
+                        <asp:TextBox ID="txtSearch" runat="server" CssClass="search" Placeholder="Nhập từ khóa tìm kiếm..."></asp:TextBox>
+                        <asp:Button ID="btnSearch" CssClass="button" runat="server" Text="Tìm kiếm" OnClick="btnSearch_Click" />
+                    </div>
+                    <div class="Category">
+                        <asp:Repeater ID="RepeaterLoai" runat="server">
+                            <ItemTemplate>
+                                <div class="Category">
+
+                                    <p>
+                                        <asp:HyperLink ID="Loai" Color="Black" CssClass="product-link" runat="server" Text='<%# Eval("CategoryName") %>' NavigateUrl='<%# "~/Views/Pages/ProductGroup.aspx?idg=" + Eval("CategoryID") %>'></asp:HyperLink>
+                                    </p>
+
+                                </div>
+                            </ItemTemplate>
+                        </asp:Repeater>
+                    </div>
+                </div>
+                <div class="menu-right">
+                    <div class="cart-container">
+                        <div class="menulogin-left">
+                            <asp:HyperLink ID="hlUser" runat="server" class="cart" NavigateUrl="~/Login/Logins.aspx"><i style="font-size: 25px;" class="fas fa-user-circle"></i></asp:HyperLink>
+                            <div class="username">
+                                <asp:Literal ID="lblTaiKhoan" runat="server"></asp:Literal>
+                            </div>
+                            <div class="logout">
+                                <asp:Button ID="btnLogOut" runat="server" CssClass="btn-logout" Text="Đăng Xuất" OnClick="btnLogOut_Click" />
+                            </div>
+                        </div>
+                        <div>
+                            <asp:HyperLink ID="hlOrderHistories" Visible="false" runat="server" class="cart" NavigateUrl="~/Views/Orders/OrderHistory.aspx"><i style="font-size: 25px; margin: 0 20px;" class="fas fa-history"></i></asp:HyperLink>
+                        </div>
+                        <div>
+                            <asp:HyperLink ID="HyperLink1" runat="server" class="cart" NavigateUrl="~/Views/Orders/OrderStatus.aspx"><i style="font-size: 25px; margin: 0 20px;" class="fas fa-truck"></i></asp:HyperLink>
+                        </div>
+                        <div>
+                            <asp:HyperLink ID="HyperLink3" runat="server" class="cart" NavigateUrl="~/Views/Orders/Carts.aspx"><i style="font-size: 25px;" class="fas fa-shopping-cart"></i></asp:HyperLink>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="Brand">
+                <asp:Repeater ID="RepeaterThuongHieu" runat="server">
+                    <ItemTemplate>
+                        <div class="Brands">
+
+                            <p>
+                                <asp:HyperLink ID="ThuongHieu" Color="Black" CssClass="product-link" runat="server" Text='<%# Eval("BrandName") %>' NavigateUrl='<%# "~/Views/Pages/ProductCategory.aspx?idc=" + Eval("BrandID") %>'></asp:HyperLink>
+                            </p>
+
+                        </div>
+                    </ItemTemplate>
+                </asp:Repeater>
+            </div>
+        </div>
+
+        <div>
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+            </asp:ContentPlaceHolder>
+        </div>
+        <div class="footer">
+            <div class="footer-container">
+                <h1>Liên Hệ</h1>
+                <asp:Repeater ID="rptContact" runat="server">
+                    <ItemTemplate>
+                        <div class="contact">
+                            <asp:Label ID="lblAddress" runat="server" Text="Địa chỉ: "></asp:Label>
+                            <asp:Label ID="Address" runat="server" Text= '<%# Eval("Address") %>'></asp:Label>
+                        </div>
+                        <div class="contact">
+                            <asp:Label ID="lblPhone" runat="server" Text="Điện thoại: "></asp:Label>
+                            <asp:Label ID="Phone" runat="server" Text='<%# Eval("Phone") %>'></asp:Label>
+                        </div>
+                        <div class="contact">
+                            <asp:Label ID="lblEmail" runat="server" Text="Email: "></asp:Label>
+                            <asp:Label ID="Email" runat="server" Text='<%# Eval("Email") %>'></asp:Label>
+                        </div>
+                    </ItemTemplate>
+                </asp:Repeater>
+
+
+                <%--<br />
+                <p>Địa chỉ: 783 Phạm Hữu Lầu, Phường 6, TP.Cao Lãnh, Đồng Tháp</p>
+                <br />
+                <p>Điện thoại: 0394529044 - 0328075014</p>
+                <br />
+                <p>Email: 0022410138@student.dthu.edu.vn - 0022410512@student.dthu.edu.vn</p>--%>
+            </div>
+        </div>
+
+
+    </form>
+</body>
+</html>

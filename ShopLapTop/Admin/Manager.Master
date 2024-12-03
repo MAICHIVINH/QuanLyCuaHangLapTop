@@ -1,0 +1,91 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Manager.master.cs" Inherits="ShopLapTop.Admin.Manager1" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <title></title>
+    <link href="../Style/Manager.css" rel="stylesheet" />
+     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css"/>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+    <style>
+        .fas fa-bell{
+            border: none;
+            background-color: white;
+        }
+        .Home {
+            text-decoration: none;
+            color: #ff00dc
+        }
+    </style>
+</head>
+<body>
+    <form id="form1" runat="server">
+        <div class="Main" style="display: flex; /* width: 100%; */width: 2000px; /* width: 100%; */display: flex; height: 100%;">
+            <div class="left">
+                <div class="sidebar">
+                    <div style="position: fixed">
+                        <ul>
+                            <li>
+                                <asp:HyperLink ID="hlstatic"  NavigateUrl="~/Admin/Manager2.aspx" runat="server">Thống kê</asp:HyperLink>
+                            </li>
+                            <li>
+                                <asp:HyperLink ID="hlProduct" Visible="false" NavigateUrl="~/Admin/ManagerProduct/HomeProduct.aspx" runat="server">Sản phẩm</asp:HyperLink>
+                            </li>
+                            <li>
+                                <asp:HyperLink ID="hlBrand" Visible="false" NavigateUrl="~/Admin/ManagerBrand/HomeBrand.aspx" runat="server">Thương hiệu</asp:HyperLink>
+                            </li>
+                            <li>
+                                <asp:HyperLink ID="hlCategories" Visible="false" NavigateUrl="~/Admin/ManagerCategories/HomeCategories.aspx" runat="server">Loại sản phẩm</asp:HyperLink>
+                            </li>
+                            <li>
+                                <asp:HyperLink ID="hlBill" Visible="false" NavigateUrl="~/Admin/ManagerBill/HomeBill.aspx" runat="server">Đơn hàng</asp:HyperLink>
+                            </li>
+                            <li>
+                                <asp:HyperLink ID="hlBillDetail" NavigateUrl="~/Admin/ManagerBillDetail/HomeBillDetail.aspx" runat="server">Chi tiết đơn hàng</asp:HyperLink>
+                            </li>
+                            <li>
+                                <asp:HyperLink ID="hlCustomer" Visible="false" NavigateUrl="~/Admin/ManagerCustomer/HomeCustomer.aspx" runat="server">Khách Hàng</asp:HyperLink>
+                            </li>
+                            <li>
+                                <asp:HyperLink ID="hlContact" Visible="false"  NavigateUrl="~/Admin/ManagerContact/HomeContact.aspx" runat="server">Liên hệ</asp:HyperLink>
+                            </li>
+                            <li>
+                                <asp:HyperLink ID="hlEmloyee" Visible="false" NavigateUrl="~/Admin/ManagerEmloyee/HomeEmloyee.aspx" runat="server">Tài khoản</asp:HyperLink>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+            <div class="right">
+                <div class="header">
+                    <asp:HyperLink ID="hlHome" runat="server" NavigateUrl="~/Admin/Manager2.aspx">
+                            <asp:Image ID="LogoImage" runat="server" ImageUrl="~/Style/Images/pngegg.png" AlternateText="Shop LapTop" style= "width: 100%; max-width: 150px;" />
+                        </asp:HyperLink>
+                   <%-- <div class="search-bar">
+                        <asp:TextBox ID="txtSearch" runat="server" placeholder="Nhập thông tin cần tìm..." />
+                        <button type="button"><i class="fas fa-search"></i></button>
+                    </div>--%>
+                    <div class="user-info">
+                        <%--<asp:HyperLink ID="hlmess" runat="server" NavigateUrl="~/SubPage.aspx"><i class="fas fa-bell"></i></asp:HyperLink>--%>
+<%--                        <asp:HyperLink ID="hlUser" runat="server" NavigateUrl="~/Login/Logins.aspx"><i class="fas fa-user-circle"></i></asp:HyperLink>--%>
+                        <div class="username">
+                                <asp:Literal ID="lblAccount" runat="server"></asp:Literal>
+                            </div>
+                            <div class="logout">
+                                <asp:Button ID="btnLogOut" runat="server" CssClass="btnlogout" Text="Đăng Xuất" OnClick="btnLogOut_Click"/>
+                            </div>
+                    </div>
+                </div>
+                <div class="main-content">
+                    <div style="padding: 63px 0; margin-left: 210px;">
+                        <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+                        </asp:ContentPlaceHolder>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </form>
+</body>
+</html>

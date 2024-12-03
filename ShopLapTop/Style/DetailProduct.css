@@ -1,0 +1,230 @@
+﻿* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f9f9f9;
+    color: #333;
+}
+
+.Container {
+    width: 80%;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: #fff;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+}
+
+.Detail {
+    display: flex;
+    gap: 30px;
+    margin-bottom: 30px;
+    /*align-items: center;*/
+}
+
+/*.image .product-img {
+    width: 350px;
+    height: auto;*/
+   /* align-items: center;*/
+    /*border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}*/
+
+.image .product-img {
+    max-width: 300px;
+    width: 100%;
+/*    height: 250px;*/
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.info h1 {
+    font-size: 28px;
+    font-weight: bold;
+    color: #333;
+    margin-bottom: 10px;
+}
+
+.Price {
+    color: #E63946;
+    font-size: 26px;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+.Description {
+    margin: 15px 0;
+    font-size: 16px;
+    color: #666;
+    line-height: 25px;
+}
+
+.action {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    margin: 15px 0;
+}
+
+.quantity {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.txtquantity {
+    width: 60px;
+    padding: 5px;
+    font-size: 16px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    text-align: center;
+}
+
+.addcart {
+    background-color: #2A9D8F;
+    color: white;
+    padding: 12px 25px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+    .addcart:hover {
+        background-color: #21867a;
+    }
+
+.details {
+    list-style: none;
+    padding: 0;
+    margin: 20px 0;
+}
+
+    .details li {
+        font-size: 15px;
+        margin-bottom: 8px;
+    }
+
+    .details strong {
+        font-weight: bold;
+    }
+
+.share {
+    margin-top: 15px;
+}
+
+    .share label {
+        font-weight: bold;
+        margin-right: 10px;
+        color: #333;
+    }
+
+    .share a {
+        display: inline-block;
+        width: 30px;
+        height: 30px;
+        margin-right: 8px;
+        background-color: #e9e9e9;
+        color: #555;
+        text-align: center;
+        line-height: 30px;
+        border-radius: 50%;
+        font-size: 16px;
+        text-decoration: none;
+        transition: background-color 0.3s ease;
+    }
+
+        .share a:hover {
+            background-color: #ddd;
+            color: #333;
+        }
+
+.content {
+    display: block;
+    text-align: justify;
+    line-height: 25px;
+    margin-top: 30px;
+    padding: 15px;
+    background-color: #f8f8f8;
+    border: 1px solid #ddd;
+    border-radius: 0 5px 5px 5px;
+}
+
+.related-products {
+    margin-top: 40px;
+    text-align: center;
+}
+
+    .related-products h2 {
+        font-size: 24px;
+        margin-bottom: 20px;
+        color: #333;
+    }
+
+.item {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.relatedimage {
+    flex: 0 0 40%;
+    max-width: 150px;
+    margin: 0 20px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    padding: 10px;
+    background-color: #fff;
+}
+
+    .relatedimage .img {
+        width: 100%;
+        height: 100px;
+        border-radius: 8px;
+    }
+
+.relatedproduct {
+    display: flex;
+    flex-direction: column;
+}
+
+.relatedname {
+    font-size: 16px;
+    font-weight: bold;
+    color: #333;
+    margin-bottom: 5px;
+    height: 70px;
+}
+
+.relatedprice {
+    font-size: 14px;
+    color: #E63946;
+}
+
+.imagebottom {
+    display: flex;
+    gap: 10px;
+    margin-top: 10px;
+    justify-content: center;
+}
+
+.imagebottom-img {
+    width: 65px; 
+    height: 55px;
+    border: 2px solid #ddd;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: border-color 0.3s ease, transform 0.3s ease;
+    box-shadow: 0 3px 6px rgba(0, 0, 0, 0.15);
+}
+
+    .imagebottom-img:hover {
+        /*border-color: #2A9D8F;*/
+    transform: scale(1.1);
+    }

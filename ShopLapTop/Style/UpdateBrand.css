@@ -1,0 +1,109 @@
+﻿.wapper {
+    width: 1300px;
+    font-family: Arial, sans-serif;
+    background-color: #f7f7f7;
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+}
+
+h1 {
+    font-size: 28px;
+    color: #333;
+    text-align: center;
+    margin-bottom: 20px;
+    font-weight: bold;
+}
+
+.container {
+    position: fixed;
+    justify-content: center;
+    align-items: center;
+    height: 420px;
+    max-width: 600px;
+    background: #ffffff;
+    padding: 30px 40px;
+    border-radius: 10px;
+    border: 1px solid #ddd;
+    width: 100%;
+}
+
+
+.group {
+    margin-bottom: 20px;
+    text-align: left;
+}
+
+.label {
+    display: block;
+    font-weight: bold;
+    margin-bottom: 8px;
+    font-size: 16px;
+    color: #333;
+}
+
+.control {
+    width: 100%;
+    padding: 12px;
+    font-size: 16px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    background-color: #f9f9f9;
+    box-sizing: border-box;
+}
+
+
+.input {
+    margin-right: 10px;
+    vertical-align: middle;
+    font-size: 14px;
+    color: #333;
+}
+
+.btnupdate {
+    width: 30%;
+    background-color: #5cb85c;
+    color: white;
+    border: none;
+    padding: 8px 12px;
+    border-radius: 4px;
+    font-size: 14px;
+    cursor: pointer;
+    text-align: center;
+    font-weight: bold;
+    transition: background-color 0.3s ease;
+}
+
+    .btnupdate:hover {
+        background-color: #4cae4c;
+    }
+
+.btncancel {
+    width: 20%;
+    font-size: 14px;
+    color: white;
+    background-color: #d9534f;
+    border: none;
+    border-radius: 4px;
+    padding: 8px 12px;
+    text-decoration: none;
+    cursor: pointer;
+    font-weight: bold;
+    float: right;
+    transition: background-color 0.3s ease;
+}
+
+    .btncancel:hover {
+        background-color: #c9302c;
+    }
+
+
+.lblError {
+    color: red;
+    font-size: 14px;
+    margin-bottom: 15px;
+    display: block;
+    text-align: center;
+}
