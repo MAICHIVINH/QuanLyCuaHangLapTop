@@ -1,11 +1,11 @@
-# 💻 ShopLapTop - Hệ Thống Website Bán Hàng & Quản Lý Cửa Hàng Laptop
+# ShopLapTop - Hệ Thống Website Bán Hàng & Quản Lý Cửa Hàng Laptop
 
 > **Đồ án môn học:** Lập trình Web ASP.NET  
 > **Repository:** [MAICHIVINH/QuanLyCuaHangLapTop](https://github.com/MAICHIVINH/QuanLyCuaHangLapTop.git)  
 
 ---
 
-## 📖 Giới thiệu dự án
+## Giới thiệu dự án
 
 **ShopLapTop** là ứng dụng web thương mại điện tử chuyên cung cấp và kinh doanh các sản phẩm máy tính xách tay (laptop), linh kiện và phụ kiện công nghệ. Hệ thống được xây dựng trên nền tảng **ASP.NET Web Forms (.NET Framework 4.8)** kết hợp với cơ sở dữ liệu **Microsoft SQL Server**, sử dụng mô hình ánh xạ dữ liệu **LINQ to SQL**.
 
@@ -15,7 +15,7 @@ Hệ thống đáp ứng trọn vẹn hai đối tượng người dùng:
 
 ---
 
-## 🛠️ Công nghệ sử dụng
+## Công nghệ sử dụng
 
 | Thành phần | Công nghệ / Thư viện | Ghi chú |
 | :--- | :--- | :--- |
@@ -30,7 +30,7 @@ Hệ thống đáp ứng trọn vẹn hai đối tượng người dùng:
 
 ---
 
-## ✨ Tính năng nổi bật
+## Tính năng nổi bật
 
 ### 1. Phân hệ Khách hàng (Client)
 * **Trang chủ & Danh mục đa dạng:**
@@ -81,7 +81,7 @@ Hệ thống đáp ứng trọn vẹn hai đối tượng người dùng:
 
 ---
 
-## 📂 Cấu trúc thư mục dự án
+## Cấu trúc thư mục dự án
 
 ```text
 ShopLapTop/
@@ -129,7 +129,7 @@ ShopLapTop/
 
 ---
 
-## 🗄️ Thiết kế Cơ sở dữ liệu
+## Thiết kế Cơ sở dữ liệu
 
 Database gồm các bảng chính sau:
 
@@ -162,7 +162,7 @@ erDiagram
 
 ---
 
-## 🚀 Hướng dẫn Cài đặt & Chạy dự án
+## Hướng dẫn Cài đặt & Chạy dự án
 
 ### 1. Yêu cầu hệ thống
 * **Hệ điều hành:** Windows 10/11
@@ -201,7 +201,7 @@ Mở tệp `ShopLapTop/Web.config` và điều chỉnh thông số `Data Source`
 
 ---
 
-## 👥 Tài khoản mặc định tham khảo
+## Tài khoản mặc định tham khảo
 
 * **Khách hàng demo:**
   * Email: `vinh123@gmail.com` | Mật khẩu: `123`
@@ -209,5 +209,5 @@ Mở tệp `ShopLapTop/Web.config` và điều chỉnh thông số `Data Source`
 
 ---
 
-## 📄 Bản quyền & Đóng góp
+## Bản quyền & Đóng góp
 Dự án được xây dựng phục vụ học tập và nghiên cứu môn học Lập trình Web ASP.NET. Mọi quyền đóng góp và chia sẻ vui lòng gửi qua Github repository: [MAICHIVINH/QuanLyCuaHangLapTop](https://github.com/MAICHIVINH/QuanLyCuaHangLapTop.git).
