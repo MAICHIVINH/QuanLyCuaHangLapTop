@@ -55,7 +55,7 @@ namespace ShopLapTop.Admin.ManagerCustomer.Function
                 data.OrderHistoriyProducts.DeleteAllOnSubmit(orderHistories);
                 data.Accounts.DeleteOnSubmit(customer);
                 data.SubmitChanges();
-                lblMessage.Text = "Đã Xóa Khách Hàng Thành Công! Bạn Có Thể Quay Lại Trang Để Kiểm Tra!";
+                Response.Redirect("../HomeCustomer.aspx");
             }
             catch (Exception ex)
             {

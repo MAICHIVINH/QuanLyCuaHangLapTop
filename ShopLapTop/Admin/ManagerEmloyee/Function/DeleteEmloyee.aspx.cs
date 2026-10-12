@@ -58,6 +58,7 @@ namespace ShopLapTop.Admin.ManagerEmloyee.Function
             data.AccountEmloyeePermissions.DeleteAllOnSubmit(emloyeeRoles);
             data.SubmitChanges();
             lblMessage.Text = "Xóa Nhân Viên Thành Công! Bạn Có Thể Quay Lại Trang Chủ Để Kiểm Tra";
+            Response.Redirect("../HomeEmloyee.aspx");
 
         }
 

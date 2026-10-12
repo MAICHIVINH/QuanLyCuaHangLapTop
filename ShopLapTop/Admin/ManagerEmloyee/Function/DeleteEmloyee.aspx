@@ -43,7 +43,7 @@
             </div>
             <br />
             <div class="error">
-                <asp:Label ID="lblMessage" runat="server" Style=" text-align:center; color: red; font-style: italic;" Text=""></asp:Label>
+                <asp:Label ID="lblMessage" runat="server" Style=" text-align:center; color: red; font-style: italic;" Text="" ></asp:Label>
             </div>
             <br />
             <div>

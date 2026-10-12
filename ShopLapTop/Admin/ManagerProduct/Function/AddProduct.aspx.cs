@@ -195,8 +195,8 @@ namespace ShopLapTop.Admin.ManagerProduct.Function
                 int productId = AddProducts(productname, price, ImageName, Details, Description, IdCategories, IdCategories, quantity, discount);
                 ImagePermistion(FileImagePermistion, productId);
                 LoadPage();
-                lblMessage.Text = "Them du lieu Thanh Cong!, quay lai trang chu de kiem tra";
-                btnHomeProduct.Visible = true;
+                lblMessage.Text = "Thêm dữ liệu thành công!";
+                Response.Redirect("../HomeProduct.aspx");
             }
         }
 

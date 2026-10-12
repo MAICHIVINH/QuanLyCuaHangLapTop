@@ -13,7 +13,7 @@
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>ShopLapTop</RootNamespace>
     <AssemblyName>ShopLapTop</AssemblyName>
-    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
     <UseIISExpress>true</UseIISExpress>
     <Use64BitIISExpress />
     <IISExpressSSLPort>44371</IISExpressSSLPort>
@@ -23,6 +23,7 @@
     <UseGlobalApplicationHostFile />
     <NuGetPackageImportStamp>
     </NuGetPackageImportStamp>
+    <TargetFrameworkProfile />
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <DebugSymbols>true</DebugSymbols>
@@ -55,6 +56,7 @@
     <Reference Include="Microsoft.CSharp" />
     <Reference Include="PresentationCore" />
     <Reference Include="PresentationFramework" />
+    <Reference Include="System.Data.DataSetExtensions" />
     <Reference Include="System.Data.Linq" />
     <Reference Include="System.Security" />
     <Reference Include="System.Web.DynamicData" />
@@ -63,16 +65,14 @@
     <Reference Include="System.ComponentModel.DataAnnotations" />
     <Reference Include="System" />
     <Reference Include="System.Data" />
-    <Reference Include="System.Core" />
-    <Reference Include="System.Data.DataSetExtensions" />
     <Reference Include="System.Web.Extensions" />
-    <Reference Include="System.Xml.Linq" />
     <Reference Include="System.Drawing" />
     <Reference Include="System.Web" />
     <Reference Include="System.Xml" />
     <Reference Include="System.Configuration" />
     <Reference Include="System.Web.Services" />
     <Reference Include="System.EnterpriseServices" />
+    <Reference Include="System.Xml.Linq" />
     <Reference Include="WindowsBase" />
   </ItemGroup>
   <ItemGroup>
@@ -124,7 +124,6 @@
     <Content Include="Style\Images\acer-swift-3-sf314-511-55qe-i5.jpg" />
     <Content Include="Style\Images\Apple MacBook Pro 16 inch M3 Max.jpg" />
     <Content Include="Style\Images\background-login.jpg" />
-    <Content Include="Style\Images\carshopping.png" />
     <Content Include="Style\Images\Dell Latitude 3440 i5-1235U.jpg" />
     <Content Include="Style\Images\Dell XPS 13 9310.jpg" />
     <Content Include="Style\Images\Dell XPS 14 9440 U7.jpg" />
@@ -143,8 +142,6 @@
     <Content Include="Style\Images\Laptop Lenovo Gaming Legion 9 16IRX8 i9 13980HX.png" />
     <Content Include="Style\Images\Laptop Lenovo IdeaPad Slim 5 14Q8X9 X1P-42-100.png" />
     <Content Include="Style\Images\Lenovo Ideapad Slim 3 15IAH8 i5 12450H.jpg" />
-    <Content Include="Style\Images\Login.png" />
-    <Content Include="Style\Images\Logo.png" />
     <Content Include="Style\Images\MacBook Air 13 inch M1 2020.jpg" />
     <Content Include="Style\Images\MacBook Air 15 inch M2 2023.jpg" />
     <Content Include="Style\Images\Macbook Air M3 15 2024.jpg" />
@@ -155,9 +152,7 @@
     <Content Include="Style\Images\png-clipart-shopping-cart-shopping-centre-icon-shopping-cart-text-retail-thumbnail.png" />
     <Content Include="Style\Images\pngegg.png" />
     <Content Include="Style\Images\resignter.png" />
-    <Content Include="Style\Images\User.png" />
     <Content Include="Style\Images\vanphong3.jpg" />
-    <Content Include="Style\Images\ảnh công nghệ số.png" />
     <Content Include="Style\Index.css" />
     <Content Include="Style\LoginAdmin.css" />
     <Content Include="Style\Logins.css" />

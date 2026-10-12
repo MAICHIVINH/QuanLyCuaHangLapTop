@@ -89,6 +89,7 @@ namespace ShopLapTop.Admin.ManagerEmloyee.Function
                 }
                 lblMessage.Text = "Cập Nhật Dữ Liệu Thành Công!";
                 data.SubmitChanges();
+                Response.Redirect("../HomeEmloyee.aspx");
             } catch (Exception ex)
             {
                 lblMessage.Text = "Lỗi: " + ex;

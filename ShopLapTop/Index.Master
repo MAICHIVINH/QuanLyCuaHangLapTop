@@ -5,7 +5,7 @@
 <html>
 <head runat="server">
     <link href="Style/Index.css" rel="stylesheet" />
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" />
     <title></title>
     <asp:ContentPlaceHolder ID="head" runat="server">
     </asp:ContentPlaceHolder>
@@ -88,7 +88,7 @@
                     <ItemTemplate>
                         <div class="contact">
                             <asp:Label ID="lblAddress" runat="server" Text="Địa chỉ: "></asp:Label>
-                            <asp:Label ID="Address" runat="server" Text= '<%# Eval("Address") %>'></asp:Label>
+                            <asp:Label ID="Address" runat="server" Text='<%# Eval("Address") %>'></asp:Label>
                         </div>
                         <div class="contact">
                             <asp:Label ID="lblPhone" runat="server" Text="Điện thoại: "></asp:Label>
@@ -100,14 +100,6 @@
                         </div>
                     </ItemTemplate>
                 </asp:Repeater>
-
-
-                <%--<br />
-                <p>Địa chỉ: 783 Phạm Hữu Lầu, Phường 6, TP.Cao Lãnh, Đồng Tháp</p>
-                <br />
-                <p>Điện thoại: 0394529044 - 0328075014</p>
-                <br />
-                <p>Email: 0022410138@student.dthu.edu.vn - 0022410512@student.dthu.edu.vn</p>--%>
             </div>
         </div>
 

@@ -162,7 +162,7 @@ namespace ShopLapTop.Admin.ManagerProduct.Function
                     description, idBrand, idCategories, imageName))
                 {
                     lblMessage.Text = "Dữ liệu đã được cập nhật";
-                    btnHomeProduct.Visible = true;
+                    Response.Redirect("../HomeProduct.aspx");
                 }
             }
             LoadPage(id);

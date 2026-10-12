@@ -38,3 +38,83 @@ D:\ASPX BÁO CÁO\ShopLapTop\ShopLapTop\bin\EPPlus.dll
 D:\ASPX BÁO CÁO\ShopLapTop\ShopLapTop\bin\EPPlus.Interfaces.dll
 D:\ASPX BÁO CÁO\ShopLapTop\ShopLapTop\bin\EPPlus.System.Drawing.dll
 D:\ASPX BÁO CÁO\ShopLapTop\ShopLapTop\bin\EPPlus.xml
+D:\0022410512_Lê Phước Bình_0022410138_Mai Chí Vĩnh\ShopLapTop\ShopLapTop\bin\ShopLapTop.dll.config
+D:\0022410512_Lê Phước Bình_0022410138_Mai Chí Vĩnh\ShopLapTop\ShopLapTop\bin\ShopLapTop.dll
+D:\0022410512_Lê Phước Bình_0022410138_Mai Chí Vĩnh\ShopLapTop\ShopLapTop\bin\ShopLapTop.pdb
+D:\0022410512_Lê Phước Bình_0022410138_Mai Chí Vĩnh\ShopLapTop\ShopLapTop\bin\roslyn\csc.exe
+D:\0022410512_Lê Phước Bình_0022410138_Mai Chí Vĩnh\ShopLapTop\ShopLapTop\bin\roslyn\csc.exe.config
+D:\0022410512_Lê Phước Bình_0022410138_Mai Chí Vĩnh\ShopLapTop\ShopLapTop\bin\roslyn\csc.rsp
+D:\0022410512_Lê Phước Bình_0022410138_Mai Chí Vĩnh\ShopLapTop\ShopLapTop\bin\roslyn\csi.exe
+D:\0022410512_Lê Phước Bình_0022410138_Mai Chí Vĩnh\ShopLapTop\ShopLapTop\bin\roslyn\csi.rsp
+D:\0022410512_Lê Phước Bình_0022410138_Mai Chí Vĩnh\ShopLapTop\ShopLapTop\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\0022410512_Lê Phước Bình_0022410138_Mai Chí Vĩnh\ShopLapTop\ShopLapTop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\0022410512_Lê Phước Bình_0022410138_Mai Chí Vĩnh\ShopLapTop\ShopLapTop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\0022410512_Lê Phước Bình_0022410138_Mai Chí Vĩnh\ShopLapTop\ShopLapTop\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\0022410512_Lê Phước Bình_0022410138_Mai Chí Vĩnh\ShopLapTop\ShopLapTop\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\0022410512_Lê Phước Bình_0022410138_Mai Chí Vĩnh\ShopLapTop\ShopLapTop\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\0022410512_Lê Phước Bình_0022410138_Mai Chí Vĩnh\ShopLapTop\ShopLapTop\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\0022410512_Lê Phước Bình_0022410138_Mai Chí Vĩnh\ShopLapTop\ShopLapTop\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\0022410512_Lê Phước Bình_0022410138_Mai Chí Vĩnh\ShopLapTop\ShopLapTop\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\0022410512_Lê Phước Bình_0022410138_Mai Chí Vĩnh\ShopLapTop\ShopLapTop\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\0022410512_Lê Phước Bình_0022410138_Mai Chí Vĩnh\ShopLapTop\ShopLapTop\bin\roslyn\System.AppContext.dll
+D:\0022410512_Lê Phước Bình_0022410138_Mai Chí Vĩnh\ShopLapTop\ShopLapTop\bin\roslyn\System.Collections.Immutable.dll
+D:\0022410512_Lê Phước Bình_0022410138_Mai Chí Vĩnh\ShopLapTop\ShopLapTop\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\0022410512_Lê Phước Bình_0022410138_Mai Chí Vĩnh\ShopLapTop\ShopLapTop\bin\roslyn\System.IO.FileSystem.dll
+D:\0022410512_Lê Phước Bình_0022410138_Mai Chí Vĩnh\ShopLapTop\ShopLapTop\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\0022410512_Lê Phước Bình_0022410138_Mai Chí Vĩnh\ShopLapTop\ShopLapTop\bin\roslyn\System.Reflection.Metadata.dll
+D:\0022410512_Lê Phước Bình_0022410138_Mai Chí Vĩnh\ShopLapTop\ShopLapTop\bin\roslyn\vbc.exe
+D:\0022410512_Lê Phước Bình_0022410138_Mai Chí Vĩnh\ShopLapTop\ShopLapTop\bin\roslyn\vbc.exe.config
+D:\0022410512_Lê Phước Bình_0022410138_Mai Chí Vĩnh\ShopLapTop\ShopLapTop\bin\roslyn\vbc.rsp
+D:\0022410512_Lê Phước Bình_0022410138_Mai Chí Vĩnh\ShopLapTop\ShopLapTop\bin\roslyn\VBCSCompiler.exe
+D:\0022410512_Lê Phước Bình_0022410138_Mai Chí Vĩnh\ShopLapTop\ShopLapTop\bin\roslyn\VBCSCompiler.exe.config
+D:\0022410512_Lê Phước Bình_0022410138_Mai Chí Vĩnh\ShopLapTop\ShopLapTop\bin\EPPlus.dll
+D:\0022410512_Lê Phước Bình_0022410138_Mai Chí Vĩnh\ShopLapTop\ShopLapTop\bin\EPPlus.Interfaces.dll
+D:\0022410512_Lê Phước Bình_0022410138_Mai Chí Vĩnh\ShopLapTop\ShopLapTop\bin\EPPlus.System.Drawing.dll
+D:\0022410512_Lê Phước Bình_0022410138_Mai Chí Vĩnh\ShopLapTop\ShopLapTop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\0022410512_Lê Phước Bình_0022410138_Mai Chí Vĩnh\ShopLapTop\ShopLapTop\bin\EPPlus.xml
+D:\0022410512_Lê Phước Bình_0022410138_Mai Chí Vĩnh\ShopLapTop\ShopLapTop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\0022410512_Lê Phước Bình_0022410138_Mai Chí Vĩnh\ShopLapTop\ShopLapTop\obj\Debug\ShopLapTop.csproj.AssemblyReference.cache
+D:\0022410512_Lê Phước Bình_0022410138_Mai Chí Vĩnh\ShopLapTop\ShopLapTop\obj\Debug\ShopLapTop.csproj.CoreCompileInputs.cache
+D:\0022410512_Lê Phước Bình_0022410138_Mai Chí Vĩnh\ShopLapTop\ShopLapTop\obj\Debug\ShopLapTop.dll
+D:\0022410512_Lê Phước Bình_0022410138_Mai Chí Vĩnh\ShopLapTop\ShopLapTop\obj\Debug\ShopLapTop.pdb
+D:\0022410512_Lê Phước Bình_0022410138_Mai Chí Vĩnh\ShopLapTop\ShopLapTop\obj\Debug\ShopLapTop.csproj.CopyComplete
+D:\Đồ án môn học Lập Trình Web ASPX\ShopLapTop\ShopLapTop\bin\ShopLapTop.dll.config
+D:\Đồ án môn học Lập Trình Web ASPX\ShopLapTop\ShopLapTop\bin\ShopLapTop.dll
+D:\Đồ án môn học Lập Trình Web ASPX\ShopLapTop\ShopLapTop\bin\ShopLapTop.pdb
+D:\Đồ án môn học Lập Trình Web ASPX\ShopLapTop\ShopLapTop\bin\roslyn\csc.exe
+D:\Đồ án môn học Lập Trình Web ASPX\ShopLapTop\ShopLapTop\bin\roslyn\csc.exe.config
+D:\Đồ án môn học Lập Trình Web ASPX\ShopLapTop\ShopLapTop\bin\roslyn\csc.rsp
+D:\Đồ án môn học Lập Trình Web ASPX\ShopLapTop\ShopLapTop\bin\roslyn\csi.exe
+D:\Đồ án môn học Lập Trình Web ASPX\ShopLapTop\ShopLapTop\bin\roslyn\csi.rsp
+D:\Đồ án môn học Lập Trình Web ASPX\ShopLapTop\ShopLapTop\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Đồ án môn học Lập Trình Web ASPX\ShopLapTop\ShopLapTop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Đồ án môn học Lập Trình Web ASPX\ShopLapTop\ShopLapTop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Đồ án môn học Lập Trình Web ASPX\ShopLapTop\ShopLapTop\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Đồ án môn học Lập Trình Web ASPX\ShopLapTop\ShopLapTop\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Đồ án môn học Lập Trình Web ASPX\ShopLapTop\ShopLapTop\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Đồ án môn học Lập Trình Web ASPX\ShopLapTop\ShopLapTop\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Đồ án môn học Lập Trình Web ASPX\ShopLapTop\ShopLapTop\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Đồ án môn học Lập Trình Web ASPX\ShopLapTop\ShopLapTop\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Đồ án môn học Lập Trình Web ASPX\ShopLapTop\ShopLapTop\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Đồ án môn học Lập Trình Web ASPX\ShopLapTop\ShopLapTop\bin\roslyn\System.AppContext.dll
+D:\Đồ án môn học Lập Trình Web ASPX\ShopLapTop\ShopLapTop\bin\roslyn\System.Collections.Immutable.dll
+D:\Đồ án môn học Lập Trình Web ASPX\ShopLapTop\ShopLapTop\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Đồ án môn học Lập Trình Web ASPX\ShopLapTop\ShopLapTop\bin\roslyn\System.IO.FileSystem.dll
+D:\Đồ án môn học Lập Trình Web ASPX\ShopLapTop\ShopLapTop\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Đồ án môn học Lập Trình Web ASPX\ShopLapTop\ShopLapTop\bin\roslyn\System.Reflection.Metadata.dll
+D:\Đồ án môn học Lập Trình Web ASPX\ShopLapTop\ShopLapTop\bin\roslyn\vbc.exe
+D:\Đồ án môn học Lập Trình Web ASPX\ShopLapTop\ShopLapTop\bin\roslyn\vbc.exe.config
+D:\Đồ án môn học Lập Trình Web ASPX\ShopLapTop\ShopLapTop\bin\roslyn\vbc.rsp
+D:\Đồ án môn học Lập Trình Web ASPX\ShopLapTop\ShopLapTop\bin\roslyn\VBCSCompiler.exe
+D:\Đồ án môn học Lập Trình Web ASPX\ShopLapTop\ShopLapTop\bin\roslyn\VBCSCompiler.exe.config
+D:\Đồ án môn học Lập Trình Web ASPX\ShopLapTop\ShopLapTop\bin\EPPlus.dll
+D:\Đồ án môn học Lập Trình Web ASPX\ShopLapTop\ShopLapTop\bin\EPPlus.Interfaces.dll
+D:\Đồ án môn học Lập Trình Web ASPX\ShopLapTop\ShopLapTop\bin\EPPlus.System.Drawing.dll
+D:\Đồ án môn học Lập Trình Web ASPX\ShopLapTop\ShopLapTop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Đồ án môn học Lập Trình Web ASPX\ShopLapTop\ShopLapTop\bin\EPPlus.xml
+D:\Đồ án môn học Lập Trình Web ASPX\ShopLapTop\ShopLapTop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Đồ án môn học Lập Trình Web ASPX\ShopLapTop\ShopLapTop\obj\Debug\ShopLapTop.csproj.AssemblyReference.cache
+D:\Đồ án môn học Lập Trình Web ASPX\ShopLapTop\ShopLapTop\obj\Debug\ShopLapTop.csproj.CoreCompileInputs.cache
+D:\Đồ án môn học Lập Trình Web ASPX\ShopLapTop\ShopLapTop\obj\Debug\ShopLapTop.csproj.Up2Date
+D:\Đồ án môn học Lập Trình Web ASPX\ShopLapTop\ShopLapTop\obj\Debug\ShopLapTop.dll
+D:\Đồ án môn học Lập Trình Web ASPX\ShopLapTop\ShopLapTop\obj\Debug\ShopLapTop.pdb
